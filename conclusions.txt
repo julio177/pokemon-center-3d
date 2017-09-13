@@ -1,0 +1,29 @@
+Technical conclusions
+Discuss technical issues you encountered
+Describe important facts, actions and observations
+Discuss additional thoughts about the project
+
+Technical Conclusions
+-In order to start the work we defined the metrics we were going to use, and what we were going to model (objects list).
+-Defining the layout for the complete scene proved to be useful. Thanks to this we obtained metrics and structured a plan.
+-Splitting the work and having an online cooperative tool for the project helped with managing files and versions.
+Having everyone work individually in their tasks instead of everyone working in the same one helped to finish the project faster.
+-When looking for external objects to import, we needed to make sure the objects were compatible with blender.
+-Working with imported objects without texture was difficult because we needed to add them by ourselves.
+-Changing textures from being in Blender Render to Cycles Render was time consuming.
+-Saving constantly was a must at the end of the project since Blender crashes very often when dealing with many objects.
+
+
+Ethical Conclusions
+Discuss how your project relates to our responsibilities as a professionals
+If you wish, discuss how you project relates to human morality
+
+Ethical Conclusions
+-This project can be related to our responsabilities as professionals specifically in project management. It involves 
+a project in which many people have to work cooperatively. Another thing to consider are the requirements set 
+by the client (teacher) and the tasks. These tasks are necessary to have a plan and a clear division of work.
+-Our project can be related to a specific point of view of morality, this point being, treating living creatures with respect.
+Believing that every living creature has feelings implies that we should respect them regardless of the creature (animals/pokemon).
+The project we modeled depicts a pokemon center, which is basically a hospital for pokemon. These are living creatures in 
+the environment we are setting, they cooperate with people and are treated with respect. 
+
